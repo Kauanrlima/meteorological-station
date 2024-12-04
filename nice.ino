@@ -6,8 +6,8 @@
 #include <HTTPClient.h>
 
 // Configuração Wi-Fi
-const char* ssid = "GABRIEL";
-const char* password = "13695410";
+const char* ssid = "";
+const char* password = "";
 
 // Configuração ThingSpeak
 const char* server = "http://api.thingspeak.com";
