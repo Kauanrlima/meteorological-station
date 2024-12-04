@@ -1,4 +1,4 @@
-Data,ID,TemperaturaBMP(ºC),Pressão(hPa),Altitude(m),Umidade(g/m3),TemperaturaAHT(ºC),HIF(ºC),latitude,longitude,elevation,status
+Data,ID,TemperaturaBMP(ÂºC),PressÃ£o(hPa),Altitude(m),Umidade(g/m3),TemperaturaAHT(ÂºC),HIF(ÂºC),latitude,longitude,elevation,status
 2024-12-02T14:29:22-03:00,1,31.70,947.59,561.59,62.36,31.51,36.63,,,,
 2024-12-02T14:29:43-03:00,2,31.80,947.53,562.12,61.81,31.58,36.62,,,,
 2024-12-02T14:30:03-03:00,3,31.90,947.54,562.03,61.25,31.71,36.76,,,,
