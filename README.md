@@ -9,3 +9,5 @@ We also uploaded an CSV file generated from the database which can be downloaded
 since we are limited by the ThingSpeak website to allow users to directly download the CSV file, so this works more as an example of the data collected in a period of time)
 
 https://www.csvplot.com/
+
+Project done by Gabriel Costa Oliveira and Kauan Ramos Lima (grupo 7) for the subject microprocessor taught by Dr. Prof. Carlos Yujiro Shigue
